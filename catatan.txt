@@ -1,2 +1,1 @@
-Halo , ini latihan Git
-ini baris ke dua , saya baru belajar push juga
+PERCOBAAN: baris ini cuma ada di branch eksperimen
