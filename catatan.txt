@@ -1,1 +1,3 @@
+Halo , ini latihan Git 
+ini baris ke dua , saya baru belajar juga
 PERCOBAAN: baris ini cuma ada di branch eksperimen
